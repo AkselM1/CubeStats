@@ -1,0 +1,2 @@
+# CubeStats
+Speedcubing records 
